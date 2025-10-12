@@ -1,0 +1,32 @@
+{
+  "Accuracy": 0.8634713144517067,
+  "PR_AUC": 0.2820744591562151,
+  "ROC_AUC": 0.7295481663324533,
+  "F1_score": 0.29850746268656714,
+  "Best_Threshold": 0.17224150156176607,
+  "features_used": [
+    "Average_Rating",
+    "Rating",
+    "Deviation_Of_Star_Ratings",
+    "Time_Lapsed",
+    "Text_Length",
+    "Valence",
+    "Arousal",
+    "Title_Length",
+    "Num_of_Ratings",
+    "Flesch_Reading_Ease",
+    "FOG_Index",
+    "Sentiment_Score",
+    "new_depth",
+    "new_breadth",
+    "Is_Photo",
+    "Hotel_Grade",
+    "Employee_Friendliness_Score",
+    "Facility_Score",
+    "Cleanliness_Score",
+    "Comfort_Score",
+    "Value_For_Money_Score",
+    "Location_Score"
+  ],
+  "missing_features_ignored": []
+}
