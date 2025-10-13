@@ -30,11 +30,11 @@
   ],
   "random_state": 42,
   "best_params": {
-    "hidden_dim": 128,
-    "depth": 3,
-    "dropout": 0.31045426457642256,
-    "lr": 0.0014417821799230432,
-    "weight_decay": 5.660609028019945e-05,
+    "hidden_dim": 256,
+    "depth": 4,
+    "dropout": 0.19522221566144854,
+    "lr": 0.0017252356782725706,
+    "weight_decay": 3.636241307304121e-05,
     "batch_size": 512
   }
 }
