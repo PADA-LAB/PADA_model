@@ -1,0 +1,20 @@
+{
+  "Accuracy": 0.9083772448650392,
+  "PR_AUC": 0.3697274274460991,
+  "ROC_AUC": 0.825635187146904,
+  "F1_score": 0.39316239316239315,
+  "Best_Threshold": 0.15295134484767914,
+  "best_params": {
+    "embedding_dim": 160,
+    "n_layers": 3,
+    "n_heads": 4,
+    "dim_ff": 384,
+    "attn_dropout": 0.15110137715543434,
+    "resid_dropout": 0.0013397115109844426,
+    "head_hidden": 256,
+    "use_mean": true,
+    "lr": 0.00035454464046953444,
+    "weight_decay": 2.7286851646755263e-06,
+    "batch_size": 512
+  }
+}
